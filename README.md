@@ -46,10 +46,12 @@ E-commerce Brand Development
 
 Shopify Store Design
 
+Product Research & Branding
+
+Digital Marketing Strategy
+
+
 🔗 Project Resources
 
 All project files can also be accessed here: 👉 https://drive.google.com/drive/folders/1fnw0q0moqQRX8qmg3KMTnknIKhE67qhC
 
-Product Research & Branding
-
-Digital Marketing Strategy
