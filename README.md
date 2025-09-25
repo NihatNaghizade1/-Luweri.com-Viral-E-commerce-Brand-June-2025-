@@ -6,6 +6,8 @@ In June 2024, I launched Luweri.com, a Shopify-based e-commerce store specializi
 
 This project highlights my ability to build and scale an e-commerce business from scratch — covering everything from product research and store design to marketing campaigns and customer engagement.
 
+---
+
 🎯 Objectives
 
 Launch a professional Shopify store with a scalable structure
@@ -17,6 +19,8 @@ Implement payment methods and ensure seamless checkout
 Create a brand identity and product visuals with Canva Pro
 
 Drive global reach and sales growth within 3 months
+
+---
 
 ✅ Key Achievements
 
@@ -30,6 +34,8 @@ Drive global reach and sales growth within 3 months
 
 🎨 Full branding, website & product design managed independently
 
+---
+
 🛠️ Tools & Platforms Used
 
 Shopify – E-commerce platform & payment integration
@@ -40,6 +46,8 @@ Social Media Marketing – Driving traffic and viral reach
 
 Analytics & Insights – Tracking sales and performance
 
+---
+
 📂 Project Type
 
 E-commerce Brand Development
@@ -49,6 +57,8 @@ Shopify Store Design
 Product Research & Branding
 
 Digital Marketing Strategy
+
+---
 
 
 🔗 Project Resources
